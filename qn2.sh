@@ -1,5 +1,5 @@
-#Write a script that takes a filename as input and creates a backup of that file by adding a timestamp to its name.
 #!/bin/bash
+#Write a script that takes a filename as input and creates a backup of that file by adding a timestamp to its name.
 echo "enter a file name"
 read file
 filename=$file
